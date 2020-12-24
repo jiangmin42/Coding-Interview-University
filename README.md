@@ -53,15 +53,15 @@
 
 - 数据结构
 
-- 数组（Arrays）
+- - 数组（Arrays）
 
-- 链表（Linked Lists）
+- - 链表（Linked Lists）
 
-- 堆栈（Stack）
+- - 堆栈（Stack）
 
-- 队列（Queue）
+- - 队列（Queue）
 
-- 哈希表（Hash table）
+- - 哈希表（Hash table）
 
 - 更多的知识
 
