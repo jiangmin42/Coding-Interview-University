@@ -53,91 +53,91 @@
 
 - 数据结构
 
-- - 数组（Arrays）
+ - 数组（Arrays）
 
-- - 链表（Linked Lists）
+ - 链表（Linked Lists）
 
-- - 堆栈（Stack）
+ - 堆栈（Stack）
 
-- - 队列（Queue）
+ - 队列（Queue）
 
-- - 哈希表（Hash table）
+ - 哈希表（Hash table）
 
 - 更多的知识
 
-- 二分查找（Binary search）
+ - 二分查找（Binary search）
 
-- 按位运算（Bitwise operations）
+ - 按位运算（Bitwise operations）
 
 - 树（Trees）
 
-- 树 —— 笔记 & 背景
+ - 树 —— 笔记 & 背景
 
-- 二叉查找树（Binary search trees）：BSTs
+ - 二叉查找树（Binary search trees）：BSTs
 
-- 堆（Heap） / 优先级队列（Priority Queue） / 二叉堆（Binary Heap）
+ - 堆（Heap） / 优先级队列（Priority Queue） / 二叉堆（Binary Heap）
 
-- 平衡查找树（Balanced search trees）（基本概念，非细节）
+ - 平衡查找树（Balanced search trees）（基本概念，非细节）
 
-- 遍历：前序、中序、后序、BFS、DFS
+ - 遍历：前序、中序、后序、BFS、DFS
 
 - 排序
 
-- 选择排序（selection）
+ - 选择排序（selection）
 
-- 插入排序（insertion）
+ - 插入排序（insertion）
 
-- 堆排序（heapsort）
+ - 堆排序（heapsort）
 
-- 快速排序（quicksort）
+ - 快速排序（quicksort）
 
-- 归并排序（merge sort）
+ - 归并排序（merge sort）
 
 - 图（Graphs）
 
-- 有向图（directed）
+ - 有向图（directed）
 
-- 无向图（undirected）
+ - 无向图（undirected）
 
-- 邻接矩阵（adjacency matrix）
+ - 邻接矩阵（adjacency matrix）
 
-- 邻接表（adjacency list）
+ - 邻接表（adjacency list）
 
-- 遍历：广度优先(BFS), 深度优先(DFS)
+ - 遍历：广度优先(BFS), 深度优先(DFS)
 
 - 更多知识
 
-- 递归
+ - 递归
 
-- 动态规划
+ - 动态规划
 
-- 面向对象编程
+ - 面向对象编程
 
-- 设计模式
+ - 设计模式
 
-- 组合 & 概率
+ - 组合 & 概率
 
-- NP, NP-完全和近似算法
+ - NP, NP-完全和近似算法
 
-- 缓存
+ - 缓存
 
-- 进程和线程
+ - 进程和线程
 
-- 测试
+ - 测试
 
-- 调度
+ - 调度
 
-- 字符串搜索和操作
+ - 字符串搜索和操作
 
-- 字典树（Tries）
+ - 字典树（Tries）
 
-- 浮点数
+ - 浮点数
 
-- Unicode
+ - Unicode
 
-- 字节顺序
+ - 字节顺序
 
-- 网络
+ - 网络
 
 - 系统设计、可伸缩性、数据处理（如果你有4+年经验）
 
@@ -165,43 +165,43 @@
 
 - 附加学习
 
-- 编译器
+ - 编译器
 
-- Emacs and vi(m)
+ - Emacs and vi(m)
 
-- Unix 命令行工具
+ - Unix 命令行工具
 
-- 信息论
+ - 信息论
 
-- 奇偶校验位 & 汉明码 (视频)
+ - 奇偶校验位 & 汉明码 (视频)
 
-- 系统熵值
+ - 系统熵值
 
-- 密码学
+ - 密码学
 
-- 压缩
+ - 压缩
 
-- 计算机安全
+ - 计算机安全
 
-- 垃圾回收
+ - 垃圾回收
 
-- 并行编程
+ - 并行编程
 
-- 消息传递，序列化和队列化的系统
+ - 消息传递，序列化和队列化的系统
 
-- A*搜索算法
+ - A* 搜索算法
 
-- 快速傅里叶变换
+ - 快速傅里叶变换
 
-- 布隆过滤器
+ - 布隆过滤器
 
-- HyperLogLog
+ - HyperLogLog
 
-- 局部敏感哈希
+ - 局部敏感哈希
 
-- van Emde Boas 树
+ - van Emde Boas 树
 
-- 增强数据结构
+ - 增强数据结构
 
 - 平衡查找树
 
@@ -219,25 +219,25 @@
 
 - B 树
 
-- k-D 树
+ - k-D 树
 
-- 跳表
+ - 跳表
 
-- 网络流
+ - 网络流
 
-- 不相交集 & 联合查找
+ - 不相交集 & 联合查找
 
-- 快速处理的数学
+ - 快速处理的数学
 
-- 树堆 (Treap)
+ - 树堆 (Treap)
 
-- 线性规划
+ - 线性规划
 
-- 几何：凸包（Geometry, Convex hull）
+ - 几何：凸包（Geometry, Convex hull）
 
-- 离散数学
+ - 离散数学
 
-- 机器学习
+ - 机器学习
 
 - 一些主题的额外内容
 
