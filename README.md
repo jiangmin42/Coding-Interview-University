@@ -31,13 +31,13 @@
 
 - [如何使用它](#howuseit)
 
-- 不要觉得自己不够聪明
+- [不要觉得自己不够聪明](#DonotEenyYourself)
 
-- 相关视频资源
+- [相关视频资源](#RelatedVideos)
 
-- 面试过程 & 通用的面试准备
+- [面试过程 & 通用的面试准备](#InterviewPreparation)
 
-- 为你的面试选择一种语言
+- [为你的面试选择一种语言](#ChooseAProgrammingLanguageForTheInterview)
 
 - 书单
 
@@ -283,5 +283,79 @@ git push --set-upstream origin progress
 
 git push --force
 
+[更多关于 Github-flavored markdown 的详情](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
 
+# <a id="DonotEenyYourself">不要觉得自己不够聪明</a>
 
+- 大多数成功的软件工程师都非常聪明，但他们都有一种觉得自己不够聪明的不安全感。
+
+- 天才程序员的神话 (视频，待翻译)
+
+- 不要单打独斗：面对技术中的隐形怪物（视频，待翻译）
+
+# <a id="RelatedVideos">相关视频资源</a>
+
+译者语：这一部分全是国外的付费课程，我尽量找一些国内的类似的课程来替代。
+
+# <a id="InterviewPreparation">面试过程 & 通用的面试准备</a>
+
+- [ ] ABC：不要停止编程（Always Be Coding）
+
+- [ ] 白板编程（Whiteboarding）
+
+- [ ] 揭秘技术招聘
+
+- [ ] 如何在科技四强企业中获得一份工作：
+
+	- [ ] “如何在科技四强企业中获得一份工作 —— Amazon、Facebook、Google 和 Microsoft”（视频）
+
+- [ ] 解密开发类面试第一集：
+
+	- [ ] Gayle L McDowell —— 解密开发类面试（视频）
+
+	- [ ] 解密开发类面试 —— 作者 Gayle Laakmann McDowell（视频）
+
+- [ ] 解密 Facebook 编码面试：
+
+	- [ ]方法
+
+	- [ ]问题演练
+
+- [ ] 准备课程：
+
+	- [ ] 软件工程师面试发布（收费课程）：
+
+		- [ ]从前 Google 面试官身上学习如何准备自己，让自己能够应付软件工程师的面试。
+
+	- [ ] Python 数据结构，算法和面试（收费课程）：
+
+		- [ ]Python 面试准备课程，内容涉及数据结构，算法，模拟面试等。
+
+	- [ ] Python 的数据结构和算法简介（Udacity 免费课程）：
+
+		- [ ]免费的 Python 数据结构和算法课程。
+
+	- [ ] 数据结构和算法纳米学位！（Udacity 收费纳米学位）：
+
+		- [ ]获得超过100种数据结构和算法练习以及指导的动手练习，专门导师帮助你在面试和职场中做好准备。
+
+	- [ ] 探究行为面试（Educative 免费课程）：
+
+		- [ ]很多时候，不是你的技术能力会阻碍你获得理想的工作，而是你在行为面试中的表现。
+
+# <a id="ChooseAProgrammingLanguageForTheInterview">为你的面试选择一种语言</a>
+
+你可以在编程这一环节，使用一种自己用起来较为舒适的语言去完成编程，但对于大公司，你只有三种固定的选择：
+
+- C++
+- Java
+- Python
+
+你也可以使用下面两种编程语言，但可能会有某些限制，你需要实现查明：
+
+- JavaScript
+- Ruby
+
+我之前写过一篇关于在面试时选择编程语言的文章：为编程面试选择一种语言。
+
+你需要对你所选择的语言感到非常舒适且足够了解。
