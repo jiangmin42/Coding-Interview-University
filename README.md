@@ -333,6 +333,6 @@ git push --force
 - JavaScript
 - Ruby
 
-我之前写过一篇关于在面试时选择编程语言的文章：为编程面试选择一种语言。
+我之前写过一篇关于在面试时选择编程语言的文章：[为编程面试选择一种语言。](https://github.com/jiangmin42/Coding-Interview-University/wiki/%E9%87%8D%E8%A6%81%E6%8F%90%E7%A4%BA%EF%BC%9A%E4%B8%BA%E7%BC%96%E7%A8%8B%E9%9D%A2%E8%AF%95%E9%80%89%E6%8B%A9%E4%B8%80%E7%A7%8D%E8%AF%AD%E8%A8%80)
 
 你需要对你所选择的语言感到非常舒适且足够了解。
