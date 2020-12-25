@@ -2,7 +2,7 @@
 
 一个国外大神，每天8~12个小时，自学了几个月后，加入了Google。随后他公开了他的学习主题清单。在做完这份清单上的每个目标后，他成为了Google的软件开发工程师! 这份清单包含了几乎所有的成为优秀工程师的知识。
 
-另外这里面还有他的经历“[我为了 Google 面试而自学了8个月](https://github.com/jiangmin42/Coding-Interview-University/wiki/%E6%88%91%E4%B8%BA%E4%BB%80%E4%B9%88%E5%85%A8%E8%81%8C%E5%AD%A6%E4%B9%A0%E4%BA%868%E4%B8%AA%E6%9C%88%E6%9D%A5%E5%BA%94%E5%AF%B9Google%E7%9A%84%E9%9D%A2%E8%AF%95)”、“我是怎么加入亚马逊的”。  
+另外这里面还有他的经历“[我为了 Google 面试而自学了8个月](https://github.com/jiangmin42/Coding-Interview-University/blob/main/story/why-i-studied-full-time-for-8-months-for-a-google-interview.MD)”、“我是怎么加入亚马逊的”。  
 
 在这份清单内的主题会让你拥有足够的知识去面对几乎每家软件公司的技术面试，包括科技巨头：Amazon、Facebook、Google，以及 Microsoft。
 
