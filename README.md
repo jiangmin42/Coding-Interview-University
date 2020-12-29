@@ -39,7 +39,7 @@
 
 - [为你的面试选择一种语言](#ChooseAProgrammingLanguageForTheInterview)
 
-- 书单
+- [书单](#书单)
 
 - 在你开始之前
 
@@ -299,27 +299,27 @@ git push --force
 
 # <a id="InterviewPreparation">面试过程 & 通用的面试准备</a>
 
-- [ ] ABC：不要停止编程（Always Be Coding）
-- [ ] 白板编程（Whiteboarding）
-- [ ] 揭秘技术招聘
+- [ ] [ABC：不要停止编程（Always Be Coding）](https://github.com/jiangmin42/Coding-Interview-University/blob/main/tips/ABC-%E4%BF%9D%E6%8C%81%E7%BC%96%E7%A0%81.MD)
+- [ ] [白板编程（Whiteboarding）](https://github.com/jiangmin42/Coding-Interview-University/blob/main/tips/%E7%99%BD%E6%9D%BF%E7%BC%96%E7%A8%8B.MD)
+- [ ] 揭秘技术招聘 (译者语：youtube视频，等我搬到国内)
 - [ ] 如何在科技四强企业中获得一份工作：
-	- [ ] “如何在科技四强企业中获得一份工作 —— Amazon、Facebook、Google 和 Microsoft”（视频）
+	- [ ] “如何在科技四强企业中获得一份工作 —— Amazon、Facebook、Google 和 Microsoft”（视频） (译者语：youtube视频，等我搬到国内)
 - [ ] 解密开发类面试第一集：
-	- [ ] Gayle L McDowell —— 解密开发类面试（视频）
-	- [ ] 解密开发类面试 —— 作者 Gayle Laakmann McDowell（视频）
+	- [ ] Gayle L McDowell —— 解密开发类面试（视频）(译者语：youtube视频，等我搬到国内)
+	- [ ] 解密开发类面试 —— 作者 Gayle Laakmann McDowell（视频）(译者语：youtube视频，等我搬到国内)
 - [ ] 解密 Facebook 编码面试：
-	- [ ]方法
-	- [ ]问题演练
+	- [ ]方法(译者语：youtube视频，等我搬到国内)
+	- [ ]问题演练(译者语：youtube视频，等我搬到国内)
 - [ ] 准备课程：
-	- [ ] 软件工程师面试发布（收费课程）：
+	- [ ] 软件工程师面试发布（收费课程）：(译者语：收费课程，等我找个类似免费的)
 		- [ ]从前 Google 面试官身上学习如何准备自己，让自己能够应付软件工程师的面试。
-	- [ ] Python 数据结构，算法和面试（收费课程）：
+	- [ ] Python 数据结构，算法和面试（收费课程）：(译者语：收费课程，等我找个类似免费的)
 		- [ ]Python 面试准备课程，内容涉及数据结构，算法，模拟面试等。
-	- [ ] Python 的数据结构和算法简介（Udacity 免费课程）：
+	- [ ] Python 的数据结构和算法简介（Udacity 免费课程）：(译者语：收费课程，等我找个类似免费的)
 		- [ ]免费的 Python 数据结构和算法课程。
 	- [ ] 数据结构和算法纳米学位！（Udacity 收费纳米学位）：
 		- [ ]获得超过100种数据结构和算法练习以及指导的动手练习，专门导师帮助你在面试和职场中做好准备。
-	- [ ] 探究行为面试（Educative 免费课程）：
+	- [ ] 探究行为面试（Educative 免费课程）：(译者语：收费课程，等我找个类似免费的)
 		- [ ]很多时候，不是你的技术能力会阻碍你获得理想的工作，而是你在行为面试中的表现。
 
 # <a id="ChooseAProgrammingLanguageForTheInterview">为你的面试选择一种语言</a>
@@ -333,6 +333,13 @@ git push --force
 - JavaScript
 - Ruby
 
-我之前写过一篇关于在面试时选择编程语言的文章：[为编程面试选择一种语言。](https://github.com/jiangmin42/Coding-Interview-University/blob/main/tips/important-pick-one-language-for-the-coding-interview.MD)
+我之前写过一篇关于在面试时选择编程语言的文章：[为编程面试选择一种语言。](https://github.com/jiangmin42/Coding-Interview-University/blob/main/tips/%E4%B8%BA%E7%BC%96%E7%A8%8B%E9%9D%A2%E8%AF%95%E9%80%89%E6%8B%A9%E4%B8%80%E7%A7%8D%E8%AF%AD%E8%A8%80.MD
 
 你需要对你所选择的语言感到非常舒适且足够了解。
+
+由于我正在学习C、C++ 和 Python，因此在下面你会看到部分关于它们的学习资料。相关书籍请看文章的底部。
+
+# <a id="书单">书单</a>
+
+为了节省你的时间，以下是比我使用过的更缩减的书单。(译者语：关于书单，我另行提供)
+
